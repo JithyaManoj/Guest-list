@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    font-family: 'MonteCarlo', cursive;
+    font-size: x-large;
+
+}
+
+input {
+
+    margin:10px;
+}
+
+#b2 {
+
+    display: none;
+}
+
